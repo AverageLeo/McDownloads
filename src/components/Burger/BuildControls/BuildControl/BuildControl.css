@@ -32,7 +32,12 @@
 .Label {
   padding: 10px;
   font-weight: bold;
-  width: 80px;
+  width: 120px;
+  display: flex;
+}
+
+.IngredientPrices {
+  font-weight: normal;
 }
 
 .BuildControl .Less {
